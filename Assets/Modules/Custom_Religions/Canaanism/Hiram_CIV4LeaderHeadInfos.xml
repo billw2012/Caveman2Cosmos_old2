@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- re-Modified by Strategyonly -->
+<!-- -->
+<Civ4LeaderHeadInfos xmlns="x-schema:../../../XML/Schema/C2C_CIV4CivilizationsSchema.xml">
+	<LeaderHeadInfos>
+		<LeaderHeadInfo>
+			<Type>LEADER_HIRAM</Type>
+			<AndDependencyTypes>
+				<DependencyType>LEADER_HIRAM</DependencyType>
+			</AndDependencyTypes>
+			<FavoriteReligion>RELIGION_CANAANITE</FavoriteReligion>
+		</LeaderHeadInfo>
+	</LeaderHeadInfos>
+</Civ4LeaderHeadInfos>

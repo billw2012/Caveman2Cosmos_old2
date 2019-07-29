@@ -1,0 +1,4298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="include">
+        <df name="xercesc">
+          <df name="dom">
+            <df name="impl">
+              <in>DOMAttrImpl.hpp</in>
+              <in>DOMAttrMapImpl.hpp</in>
+              <in>DOMAttrNSImpl.hpp</in>
+              <in>DOMCDATASectionImpl.hpp</in>
+              <in>DOMCasts.hpp</in>
+              <in>DOMCharacterDataImpl.hpp</in>
+              <in>DOMChildNode.hpp</in>
+              <in>DOMCommentImpl.hpp</in>
+              <in>DOMConfigurationImpl.hpp</in>
+              <in>DOMDeepNodeListImpl.hpp</in>
+              <in>DOMDeepNodeListPool.c</in>
+              <in>DOMDeepNodeListPool.hpp</in>
+              <in>DOMDocumentFragmentImpl.hpp</in>
+              <in>DOMDocumentImpl.hpp</in>
+              <in>DOMDocumentTypeImpl.hpp</in>
+              <in>DOMElementImpl.hpp</in>
+              <in>DOMElementNSImpl.hpp</in>
+              <in>DOMEntityImpl.hpp</in>
+              <in>DOMEntityReferenceImpl.hpp</in>
+              <in>DOMErrorImpl.hpp</in>
+              <in>DOMImplementationImpl.hpp</in>
+              <in>DOMImplementationListImpl.hpp</in>
+              <in>DOMLSInputImpl.hpp</in>
+              <in>DOMLSOutputImpl.hpp</in>
+              <in>DOMLSSerializerImpl.hpp</in>
+              <in>DOMLocatorImpl.hpp</in>
+              <in>DOMNamedNodeMapImpl.hpp</in>
+              <in>DOMNodeIDMap.hpp</in>
+              <in>DOMNodeImpl.hpp</in>
+              <in>DOMNodeIteratorImpl.hpp</in>
+              <in>DOMNodeListImpl.hpp</in>
+              <in>DOMNodeVector.hpp</in>
+              <in>DOMNormalizer.hpp</in>
+              <in>DOMNotationImpl.hpp</in>
+              <in>DOMParentNode.hpp</in>
+              <in>DOMProcessingInstructionImpl.hpp</in>
+              <in>DOMRangeImpl.hpp</in>
+              <in>DOMStringListImpl.hpp</in>
+              <in>DOMStringPool.hpp</in>
+              <in>DOMTextImpl.hpp</in>
+              <in>DOMTreeWalkerImpl.hpp</in>
+              <in>DOMTypeInfoImpl.hpp</in>
+              <in>DOMXPathExpressionImpl.hpp</in>
+              <in>DOMXPathNSResolverImpl.hpp</in>
+              <in>DOMXPathResultImpl.hpp</in>
+              <in>XSDElementNSImpl.hpp</in>
+            </df>
+            <in>DOM.hpp</in>
+            <in>DOMAttr.hpp</in>
+            <in>DOMCDATASection.hpp</in>
+            <in>DOMCharacterData.hpp</in>
+            <in>DOMComment.hpp</in>
+            <in>DOMConfiguration.hpp</in>
+            <in>DOMDocument.hpp</in>
+            <in>DOMDocumentFragment.hpp</in>
+            <in>DOMDocumentRange.hpp</in>
+            <in>DOMDocumentTraversal.hpp</in>
+            <in>DOMDocumentType.hpp</in>
+            <in>DOMElement.hpp</in>
+            <in>DOMEntity.hpp</in>
+            <in>DOMEntityReference.hpp</in>
+            <in>DOMError.hpp</in>
+            <in>DOMErrorHandler.hpp</in>
+            <in>DOMException.hpp</in>
+            <in>DOMImplementation.hpp</in>
+            <in>DOMImplementationLS.hpp</in>
+            <in>DOMImplementationList.hpp</in>
+            <in>DOMImplementationRegistry.hpp</in>
+            <in>DOMImplementationSource.hpp</in>
+            <in>DOMLSException.hpp</in>
+            <in>DOMLSInput.hpp</in>
+            <in>DOMLSOutput.hpp</in>
+            <in>DOMLSParser.hpp</in>
+            <in>DOMLSParserFilter.hpp</in>
+            <in>DOMLSResourceResolver.hpp</in>
+            <in>DOMLSSerializer.hpp</in>
+            <in>DOMLSSerializerFilter.hpp</in>
+            <in>DOMLocator.hpp</in>
+            <in>DOMMemoryManager.hpp</in>
+            <in>DOMNamedNodeMap.hpp</in>
+            <in>DOMNode.hpp</in>
+            <in>DOMNodeFilter.hpp</in>
+            <in>DOMNodeIterator.hpp</in>
+            <in>DOMNodeList.hpp</in>
+            <in>DOMNotation.hpp</in>
+            <in>DOMPSVITypeInfo.hpp</in>
+            <in>DOMProcessingInstruction.hpp</in>
+            <in>DOMRange.hpp</in>
+            <in>DOMRangeException.hpp</in>
+            <in>DOMStringList.hpp</in>
+            <in>DOMText.hpp</in>
+            <in>DOMTreeWalker.hpp</in>
+            <in>DOMTypeInfo.hpp</in>
+            <in>DOMUserDataHandler.hpp</in>
+            <in>DOMXPathEvaluator.hpp</in>
+            <in>DOMXPathException.hpp</in>
+            <in>DOMXPathExpression.hpp</in>
+            <in>DOMXPathNSResolver.hpp</in>
+            <in>DOMXPathNamespace.hpp</in>
+            <in>DOMXPathResult.hpp</in>
+            <in>StDOMNode.hpp</in>
+          </df>
+          <df name="framework">
+            <df name="psvi">
+              <in>PSVIAttribute.hpp</in>
+              <in>PSVIAttributeList.hpp</in>
+              <in>PSVIElement.hpp</in>
+              <in>PSVIHandler.hpp</in>
+              <in>PSVIItem.hpp</in>
+              <in>XSAnnotation.hpp</in>
+              <in>XSAttributeDeclaration.hpp</in>
+              <in>XSAttributeGroupDefinition.hpp</in>
+              <in>XSAttributeUse.hpp</in>
+              <in>XSComplexTypeDefinition.hpp</in>
+              <in>XSConstants.hpp</in>
+              <in>XSElementDeclaration.hpp</in>
+              <in>XSFacet.hpp</in>
+              <in>XSIDCDefinition.hpp</in>
+              <in>XSModel.hpp</in>
+              <in>XSModelGroup.hpp</in>
+              <in>XSModelGroupDefinition.hpp</in>
+              <in>XSMultiValueFacet.hpp</in>
+              <in>XSNamedMap.c</in>
+              <in>XSNamedMap.hpp</in>
+              <in>XSNamespaceItem.hpp</in>
+              <in>XSNotationDeclaration.hpp</in>
+              <in>XSObject.hpp</in>
+              <in>XSParticle.hpp</in>
+              <in>XSSimpleTypeDefinition.hpp</in>
+              <in>XSTypeDefinition.hpp</in>
+              <in>XSValue.hpp</in>
+              <in>XSWildcard.hpp</in>
+            </df>
+            <in>BinOutputStream.hpp</in>
+            <in>LocalFileFormatTarget.hpp</in>
+            <in>LocalFileInputSource.hpp</in>
+            <in>MemBufFormatTarget.hpp</in>
+            <in>MemBufInputSource.hpp</in>
+            <in>MemoryManager.hpp</in>
+            <in>StdInInputSource.hpp</in>
+            <in>StdOutFormatTarget.hpp</in>
+            <in>URLInputSource.hpp</in>
+            <in>ValidationContext.hpp</in>
+            <in>Wrapper4DOMLSInput.hpp</in>
+            <in>Wrapper4InputSource.hpp</in>
+            <in>XMLAttDef.hpp</in>
+            <in>XMLAttDefList.hpp</in>
+            <in>XMLAttr.hpp</in>
+            <in>XMLBuffer.hpp</in>
+            <in>XMLBufferMgr.hpp</in>
+            <in>XMLContentModel.hpp</in>
+            <in>XMLDTDDescription.hpp</in>
+            <in>XMLDocumentHandler.hpp</in>
+            <in>XMLElementDecl.hpp</in>
+            <in>XMLEntityDecl.hpp</in>
+            <in>XMLEntityHandler.hpp</in>
+            <in>XMLErrorCodes.hpp</in>
+            <in>XMLErrorReporter.hpp</in>
+            <in>XMLFormatter.hpp</in>
+            <in>XMLGrammarDescription.hpp</in>
+            <in>XMLGrammarPool.hpp</in>
+            <in>XMLGrammarPoolImpl.hpp</in>
+            <in>XMLNotationDecl.hpp</in>
+            <in>XMLPScanToken.hpp</in>
+            <in>XMLRecognizer.hpp</in>
+            <in>XMLRefInfo.hpp</in>
+            <in>XMLSchemaDescription.hpp</in>
+            <in>XMLValidator.hpp</in>
+            <in>XMLValidityCodes.hpp</in>
+          </df>
+          <df name="internal">
+            <in>BinFileOutputStream.hpp</in>
+            <in>BinMemOutputStream.hpp</in>
+            <in>CharTypeTables.hpp</in>
+            <in>DGXMLScanner.hpp</in>
+            <in>ElemStack.hpp</in>
+            <in>EndOfEntityException.hpp</in>
+            <in>IANAEncodings.hpp</in>
+            <in>IGXMLScanner.hpp</in>
+            <in>MemoryManagerImpl.hpp</in>
+            <in>ReaderMgr.hpp</in>
+            <in>SGXMLScanner.hpp</in>
+            <in>ValidationContextImpl.hpp</in>
+            <in>VecAttrListImpl.hpp</in>
+            <in>VecAttributesImpl.hpp</in>
+            <in>WFXMLScanner.hpp</in>
+            <in>XMLInternalErrorHandler.hpp</in>
+            <in>XMLReader.hpp</in>
+            <in>XMLScanner.hpp</in>
+            <in>XMLScannerResolver.hpp</in>
+            <in>XProtoType.hpp</in>
+            <in>XSAXMLScanner.hpp</in>
+            <in>XSObjectFactory.hpp</in>
+            <in>XSerializable.hpp</in>
+            <in>XSerializationException.hpp</in>
+            <in>XSerializeEngine.hpp</in>
+            <in>XTemplateSerializer.hpp</in>
+          </df>
+          <df name="parsers">
+            <in>AbstractDOMParser.hpp</in>
+            <in>DOMLSParserImpl.hpp</in>
+            <in>SAX2XMLFilterImpl.hpp</in>
+            <in>SAX2XMLReaderImpl.hpp</in>
+            <in>SAXParser.hpp</in>
+            <in>XercesDOMParser.hpp</in>
+          </df>
+          <df name="sax">
+            <in>AttributeList.hpp</in>
+            <in>DTDHandler.hpp</in>
+            <in>DocumentHandler.hpp</in>
+            <in>EntityResolver.hpp</in>
+            <in>ErrorHandler.hpp</in>
+            <in>HandlerBase.hpp</in>
+            <in>InputSource.hpp</in>
+            <in>Locator.hpp</in>
+            <in>Parser.hpp</in>
+            <in>SAXException.hpp</in>
+            <in>SAXParseException.hpp</in>
+          </df>
+          <df name="sax2">
+            <in>Attributes.hpp</in>
+            <in>ContentHandler.hpp</in>
+            <in>DeclHandler.hpp</in>
+            <in>DefaultHandler.hpp</in>
+            <in>LexicalHandler.hpp</in>
+            <in>SAX2XMLFilter.hpp</in>
+            <in>SAX2XMLReader.hpp</in>
+            <in>XMLReaderFactory.hpp</in>
+          </df>
+          <df name="util">
+            <df name="FileManagers">
+              <in>WindowsFileMgr.hpp</in>
+            </df>
+            <df name="MsgLoaders">
+              <df name="Win32">
+                <in>Win32MsgLoader.hpp</in>
+                <in>resource.h</in>
+              </df>
+            </df>
+            <df name="MutexManagers">
+              <in>WindowsMutexMgr.hpp</in>
+            </df>
+            <df name="NetAccessors">
+              <df name="WinSock">
+                <in>BinHTTPURLInputStream.hpp</in>
+                <in>WinSockNetAccessor.hpp</in>
+              </df>
+              <in>BinHTTPInputStreamCommon.hpp</in>
+            </df>
+            <df name="regx">
+              <in>ASCIIRangeFactory.hpp</in>
+              <in>BMPattern.hpp</in>
+              <in>BlockRangeFactory.hpp</in>
+              <in>CharToken.hpp</in>
+              <in>ClosureToken.hpp</in>
+              <in>ConcatToken.hpp</in>
+              <in>Match.hpp</in>
+              <in>Op.hpp</in>
+              <in>OpFactory.hpp</in>
+              <in>ParenToken.hpp</in>
+              <in>ParserForXMLSchema.hpp</in>
+              <in>RangeFactory.hpp</in>
+              <in>RangeToken.hpp</in>
+              <in>RangeTokenMap.hpp</in>
+              <in>RegularExpression.hpp</in>
+              <in>RegxDefs.hpp</in>
+              <in>RegxParser.hpp</in>
+              <in>RegxUtil.hpp</in>
+              <in>StringToken.hpp</in>
+              <in>Token.hpp</in>
+              <in>TokenFactory.hpp</in>
+              <in>TokenInc.hpp</in>
+              <in>UniCharTable.hpp</in>
+              <in>UnicodeRangeFactory.hpp</in>
+              <in>UnionToken.hpp</in>
+              <in>XMLRangeFactory.hpp</in>
+              <in>XMLUniCharacter.hpp</in>
+            </df>
+            <df name="Transcoders">
+              <df name="Win32">
+                <in>Win32TransService.hpp</in>
+              </df>
+            </df>
+            <in>ArrayIndexOutOfBoundsException.hpp</in>
+            <in>Base64.hpp</in>
+            <in>BaseRefVectorOf.c</in>
+            <in>BaseRefVectorOf.hpp</in>
+            <in>BinFileInputStream.hpp</in>
+            <in>BinInputStream.hpp</in>
+            <in>BinMemInputStream.hpp</in>
+            <in>BitOps.hpp</in>
+            <in>BitSet.hpp</in>
+            <in>CountedPointer.c</in>
+            <in>CountedPointer.hpp</in>
+            <in>DefaultPanicHandler.hpp</in>
+            <in>EmptyStackException.hpp</in>
+            <in>EncodingValidator.hpp</in>
+            <in>FlagJanitor.c</in>
+            <in>FlagJanitor.hpp</in>
+            <in>Hash2KeysSetOf.c</in>
+            <in>Hash2KeysSetOf.hpp</in>
+            <in>Hashers.hpp</in>
+            <in>HexBin.hpp</in>
+            <in>IOException.hpp</in>
+            <in>IllegalArgumentException.hpp</in>
+            <in>InvalidCastException.hpp</in>
+            <in>Janitor.c</in>
+            <in>Janitor.hpp</in>
+            <in>KVStringPair.hpp</in>
+            <in>KeyRefPair.c</in>
+            <in>KeyRefPair.hpp</in>
+            <in>KeyValuePair.c</in>
+            <in>KeyValuePair.hpp</in>
+            <in>LogicalPath.c</in>
+            <in>Mutexes.hpp</in>
+            <in>NameIdPool.c</in>
+            <in>NameIdPool.hpp</in>
+            <in>NoSuchElementException.hpp</in>
+            <in>NullPointerException.hpp</in>
+            <in>NumberFormatException.hpp</in>
+            <in>OutOfMemoryException.hpp</in>
+            <in>PSVIUni.hpp</in>
+            <in>PanicHandler.hpp</in>
+            <in>ParseException.hpp</in>
+            <in>PlatformUtils.hpp</in>
+            <in>QName.hpp</in>
+            <in>RefArrayOf.c</in>
+            <in>RefArrayOf.hpp</in>
+            <in>RefArrayVectorOf.c</in>
+            <in>RefArrayVectorOf.hpp</in>
+            <in>RefHash2KeysTableOf.c</in>
+            <in>RefHash2KeysTableOf.hpp</in>
+            <in>RefHash3KeysIdPool.c</in>
+            <in>RefHash3KeysIdPool.hpp</in>
+            <in>RefHashTableOf.c</in>
+            <in>RefHashTableOf.hpp</in>
+            <in>RefStackOf.c</in>
+            <in>RefStackOf.hpp</in>
+            <in>RefVectorOf.c</in>
+            <in>RefVectorOf.hpp</in>
+            <in>RuntimeException.hpp</in>
+            <in>SchemaDateTimeException.hpp</in>
+            <in>SecurityManager.hpp</in>
+            <in>StringPool.hpp</in>
+            <in>SynchronizedStringPool.hpp</in>
+            <in>TransENameMap.c</in>
+            <in>TransENameMap.hpp</in>
+            <in>TransService.hpp</in>
+            <in>TranscodingException.hpp</in>
+            <in>UTFDataFormatException.hpp</in>
+            <in>UnexpectedEOFException.hpp</in>
+            <in>UnsupportedEncodingException.hpp</in>
+            <in>ValueArrayOf.c</in>
+            <in>ValueArrayOf.hpp</in>
+            <in>ValueHashTableOf.c</in>
+            <in>ValueHashTableOf.hpp</in>
+            <in>ValueStackOf.c</in>
+            <in>ValueStackOf.hpp</in>
+            <in>ValueVectorOf.c</in>
+            <in>ValueVectorOf.hpp</in>
+            <in>XML256TableTranscoder.hpp</in>
+            <in>XML88591Transcoder.hpp</in>
+            <in>XMLASCIITranscoder.hpp</in>
+            <in>XMLAbstractDoubleFloat.hpp</in>
+            <in>XMLBigDecimal.hpp</in>
+            <in>XMLBigInteger.hpp</in>
+            <in>XMLChTranscoder.hpp</in>
+            <in>XMLChar.hpp</in>
+            <in>XMLDOMMsg.hpp</in>
+            <in>XMLDateTime.hpp</in>
+            <in>XMLDouble.hpp</in>
+            <in>XMLEBCDICTranscoder.hpp</in>
+            <in>XMLEntityResolver.hpp</in>
+            <in>XMLEnumerator.hpp</in>
+            <in>XMLExceptMsgs.hpp</in>
+            <in>XMLException.hpp</in>
+            <in>XMLFileMgr.hpp</in>
+            <in>XMLFloat.hpp</in>
+            <in>XMLIBM1047Transcoder.hpp</in>
+            <in>XMLIBM1140Transcoder.hpp</in>
+            <in>XMLInitializer.hpp</in>
+            <in>XMLInteger.hpp</in>
+            <in>XMLMsgLoader.hpp</in>
+            <in>XMLMutexMgr.hpp</in>
+            <in>XMLNetAccessor.hpp</in>
+            <in>XMLNumber.hpp</in>
+            <in>XMLResourceIdentifier.hpp</in>
+            <in>XMLString.hpp</in>
+            <in>XMLStringTokenizer.hpp</in>
+            <in>XMLUCS4Transcoder.hpp</in>
+            <in>XMLURL.hpp</in>
+            <in>XMLUTF16Transcoder.hpp</in>
+            <in>XMLUTF8Transcoder.hpp</in>
+            <in>XMLUni.hpp</in>
+            <in>XMLUniDefs.hpp</in>
+            <in>XMLUri.hpp</in>
+            <in>XMLWin1252Transcoder.hpp</in>
+            <in>XMemory.hpp</in>
+            <in>XercesDefs.hpp</in>
+            <in>XercesVersion.hpp</in>
+            <in>Xerces_autoconf_config.hpp</in>
+          </df>
+          <df name="validators">
+            <df name="common">
+              <in>AllContentModel.hpp</in>
+              <in>CMAny.hpp</in>
+              <in>CMBinaryOp.hpp</in>
+              <in>CMLeaf.hpp</in>
+              <in>CMNode.hpp</in>
+              <in>CMRepeatingLeaf.hpp</in>
+              <in>CMStateSet.hpp</in>
+              <in>CMUnaryOp.hpp</in>
+              <in>ContentLeafNameTypeVector.hpp</in>
+              <in>ContentSpecNode.hpp</in>
+              <in>DFAContentModel.hpp</in>
+              <in>Grammar.hpp</in>
+              <in>GrammarResolver.hpp</in>
+              <in>MixedContentModel.hpp</in>
+              <in>SimpleContentModel.hpp</in>
+            </df>
+            <df name="datatype">
+              <in>AbstractNumericFacetValidator.hpp</in>
+              <in>AbstractNumericValidator.hpp</in>
+              <in>AbstractStringValidator.hpp</in>
+              <in>AnySimpleTypeDatatypeValidator.hpp</in>
+              <in>AnyURIDatatypeValidator.hpp</in>
+              <in>Base64BinaryDatatypeValidator.hpp</in>
+              <in>BooleanDatatypeValidator.hpp</in>
+              <in>DatatypeValidator.hpp</in>
+              <in>DatatypeValidatorFactory.hpp</in>
+              <in>DateDatatypeValidator.hpp</in>
+              <in>DateTimeDatatypeValidator.hpp</in>
+              <in>DateTimeValidator.hpp</in>
+              <in>DayDatatypeValidator.hpp</in>
+              <in>DecimalDatatypeValidator.hpp</in>
+              <in>DoubleDatatypeValidator.hpp</in>
+              <in>DurationDatatypeValidator.hpp</in>
+              <in>ENTITYDatatypeValidator.hpp</in>
+              <in>FloatDatatypeValidator.hpp</in>
+              <in>HexBinaryDatatypeValidator.hpp</in>
+              <in>IDDatatypeValidator.hpp</in>
+              <in>IDREFDatatypeValidator.hpp</in>
+              <in>InvalidDatatypeFacetException.hpp</in>
+              <in>InvalidDatatypeValueException.hpp</in>
+              <in>ListDatatypeValidator.hpp</in>
+              <in>MonthDatatypeValidator.hpp</in>
+              <in>MonthDayDatatypeValidator.hpp</in>
+              <in>NCNameDatatypeValidator.hpp</in>
+              <in>NOTATIONDatatypeValidator.hpp</in>
+              <in>NameDatatypeValidator.hpp</in>
+              <in>QNameDatatypeValidator.hpp</in>
+              <in>StringDatatypeValidator.hpp</in>
+              <in>TimeDatatypeValidator.hpp</in>
+              <in>UnionDatatypeValidator.hpp</in>
+              <in>XMLCanRepGroup.hpp</in>
+              <in>YearDatatypeValidator.hpp</in>
+              <in>YearMonthDatatypeValidator.hpp</in>
+            </df>
+            <df name="DTD">
+              <in>DTDAttDef.hpp</in>
+              <in>DTDAttDefList.hpp</in>
+              <in>DTDElementDecl.hpp</in>
+              <in>DTDEntityDecl.hpp</in>
+              <in>DTDGrammar.hpp</in>
+              <in>DTDScanner.hpp</in>
+              <in>DTDValidator.hpp</in>
+              <in>DocTypeHandler.hpp</in>
+              <in>XMLDTDDescriptionImpl.hpp</in>
+            </df>
+            <df name="schema">
+              <df name="identity">
+                <in>FieldActivator.hpp</in>
+                <in>FieldValueMap.hpp</in>
+                <in>IC_Field.hpp</in>
+                <in>IC_Key.hpp</in>
+                <in>IC_KeyRef.hpp</in>
+                <in>IC_Selector.hpp</in>
+                <in>IC_Unique.hpp</in>
+                <in>IdentityConstraint.hpp</in>
+                <in>IdentityConstraintHandler.hpp</in>
+                <in>ValueStore.hpp</in>
+                <in>ValueStoreCache.hpp</in>
+                <in>XPathException.hpp</in>
+                <in>XPathMatcher.hpp</in>
+                <in>XPathMatcherStack.hpp</in>
+                <in>XPathSymbols.hpp</in>
+                <in>XercesXPath.hpp</in>
+              </df>
+              <in>ComplexTypeInfo.hpp</in>
+              <in>GeneralAttributeCheck.hpp</in>
+              <in>NamespaceScope.hpp</in>
+              <in>PSVIDefs.hpp</in>
+              <in>SchemaAttDef.hpp</in>
+              <in>SchemaAttDefList.hpp</in>
+              <in>SchemaElementDecl.hpp</in>
+              <in>SchemaGrammar.hpp</in>
+              <in>SchemaInfo.hpp</in>
+              <in>SchemaSymbols.hpp</in>
+              <in>SchemaValidator.hpp</in>
+              <in>SubstitutionGroupComparator.hpp</in>
+              <in>TraverseSchema.hpp</in>
+              <in>XMLSchemaDescriptionImpl.hpp</in>
+              <in>XSDDOMParser.hpp</in>
+              <in>XSDErrorReporter.hpp</in>
+              <in>XSDLocator.hpp</in>
+              <in>XUtil.hpp</in>
+              <in>XercesAttGroupInfo.hpp</in>
+              <in>XercesElementWildcard.hpp</in>
+              <in>XercesGroupInfo.hpp</in>
+            </df>
+          </df>
+          <df name="xinclude">
+            <in>XIncludeDOMDocumentProcessor.hpp</in>
+            <in>XIncludeLocation.hpp</in>
+            <in>XIncludeUtils.hpp</in>
+          </df>
+        </df>
+      </df>
+      <in>AI_Defines.h</in>
+      <in>BetterBTSAI.cpp</in>
+      <in>BetterBTSAI.h</in>
+      <in>BoolExpr.cpp</in>
+      <in>BoolExpr.h</in>
+      <in>CheckSum.h</in>
+      <in>CvAllocator.cpp</in>
+      <in>CvAllocator.h</in>
+      <in>CvArea.cpp</in>
+      <in>CvArea.h</in>
+      <in>CvArtFileMgr.cpp</in>
+      <in>CvArtFileMgr.h</in>
+      <in>CvBugOptions.cpp</in>
+      <in>CvBugOptions.h</in>
+      <in>CvBuildLists.cpp</in>
+      <in>CvBuildLists.h</in>
+      <in>CvBuildingFilters.cpp</in>
+      <in>CvBuildingFilters.h</in>
+      <in>CvBuildingGrouping.cpp</in>
+      <in>CvBuildingGrouping.h</in>
+      <in>CvBuildingInfo.cpp</in>
+      <in>CvBuildingList.cpp</in>
+      <in>CvBuildingList.h</in>
+      <in>CvBuildingSort.cpp</in>
+      <in>CvBuildingSort.h</in>
+      <in>CvCity.cpp</in>
+      <in>CvCity.h</in>
+      <in>CvCityAI.cpp</in>
+      <in>CvCityAI.h</in>
+      <in>CvContractBroker.cpp</in>
+      <in>CvContractBroker.h</in>
+      <in>CvDLLButtonPopup.cpp</in>
+      <in>CvDLLButtonPopup.h</in>
+      <in>CvDLLDataStreamIFaceBase.h</in>
+      <in>CvDLLEngineIFaceBase.h</in>
+      <in>CvDLLEntity.cpp</in>
+      <in>CvDLLEntity.h</in>
+      <in>CvDLLEntityIFaceBase.h</in>
+      <in>CvDLLEventReporterIFaceBase.h</in>
+      <in>CvDLLFAStarIFaceBase.h</in>
+      <in>CvDLLFlagEntityIFaceBase.h</in>
+      <in>CvDLLIniParserIFaceBase.h</in>
+      <in>CvDLLInterfaceIFaceBase.h</in>
+      <in>CvDLLPlotBuilderIFaceBase.h</in>
+      <in>CvDLLPython.cpp</in>
+      <in>CvDLLPythonIFaceBase.h</in>
+      <in>CvDLLSymbolIFaceBase.h</in>
+      <in>CvDLLUtilityIFaceBase.h</in>
+      <in>CvDLLWidgetData.cpp</in>
+      <in>CvDLLWidgetData.h</in>
+      <in>CvDLLXMLIFaceBase.h</in>
+      <in>CvDate.cpp</in>
+      <in>CvDate.h</in>
+      <in>CvDeal.cpp</in>
+      <in>CvDeal.h</in>
+      <in>CvDefines.h</in>
+      <in>CvDefinesModTools.h</in>
+      <in>CvDiploParameters.cpp</in>
+      <in>CvDiploParameters.h</in>
+      <in>CvDllPythonEvents.cpp</in>
+      <in>CvDllPythonEvents.h</in>
+      <in>CvDllTranslator.cpp</in>
+      <in>CvDllTranslator.h</in>
+      <in>CvEnums.h</in>
+      <in>CvEventReporter.cpp</in>
+      <in>CvEventReporter.h</in>
+      <in>CvFractal.cpp</in>
+      <in>CvFractal.h</in>
+      <in>CvGame.cpp</in>
+      <in>CvGame.h</in>
+      <in>CvGameAI.cpp</in>
+      <in>CvGameAI.h</in>
+      <in>CvGameCoreDLL.cpp</in>
+      <in>CvGameCoreDLL.h</in>
+      <in>CvGameCoreDLLDefNew.h</in>
+      <in>CvGameCoreDLLUndefNew.h</in>
+      <in>CvGameCoreUtils.cpp</in>
+      <in>CvGameCoreUtils.h</in>
+      <in>CvGameInterface.cpp</in>
+      <in>CvGameObject.cpp</in>
+      <in>CvGameObject.h</in>
+      <in>CvGameTextMgr.cpp</in>
+      <in>CvGameTextMgr.h</in>
+      <in>CvGlobals.cpp</in>
+      <in>CvGlobals.h</in>
+      <in>CvHallOfFameInfo.cpp</in>
+      <in>CvHallOfFameInfo.h</in>
+      <in>CvInfoReplacements.h</in>
+      <in>CvInfoWater.cpp</in>
+      <in>CvInfoWater.h</in>
+      <in>CvInfos.cpp</in>
+      <in>CvInfos.h</in>
+      <in>CvInitCore.cpp</in>
+      <in>CvInitCore.h</in>
+      <in>CvMap.cpp</in>
+      <in>CvMap.h</in>
+      <in>CvMapExternal.cpp</in>
+      <in>CvMapExternal.h</in>
+      <in>CvMapGenerator.cpp</in>
+      <in>CvMapGenerator.h</in>
+      <in>CvMapInterfaceBase.cpp</in>
+      <in>CvMapInterfaceBase.h</in>
+      <in>CvMessageControl.cpp</in>
+      <in>CvMessageControl.h</in>
+      <in>CvMessageData.cpp</in>
+      <in>CvMessageData.h</in>
+      <in>CvOutcome.cpp</in>
+      <in>CvOutcome.h</in>
+      <in>CvOutcomeList.cpp</in>
+      <in>CvOutcomeList.h</in>
+      <in>CvOutcomeMission.cpp</in>
+      <in>CvOutcomeMission.h</in>
+      <in>CvPathGenerator.cpp</in>
+      <in>CvPathGenerator.h</in>
+      <in>CvPipeline.cpp</in>
+      <in>CvPipeline.h</in>
+      <in>CvPlayer.cpp</in>
+      <in>CvPlayer.h</in>
+      <in>CvPlayerAI.cpp</in>
+      <in>CvPlayerAI.h</in>
+      <in>CvPlot.cpp</in>
+      <in>CvPlot.h</in>
+      <in>CvPlotGroup.cpp</in>
+      <in>CvPlotGroup.h</in>
+      <in>CvPopupInfo.cpp</in>
+      <in>CvPopupInfo.h</in>
+      <in>CvPopupReturn.cpp</in>
+      <in>CvPopupReturn.h</in>
+      <in>CvProperties.cpp</in>
+      <in>CvProperties.h</in>
+      <in>CvPropertyInteraction.cpp</in>
+      <in>CvPropertyInteraction.h</in>
+      <in>CvPropertyManipulators.cpp</in>
+      <in>CvPropertyManipulators.h</in>
+      <in>CvPropertyPropagator.cpp</in>
+      <in>CvPropertyPropagator.h</in>
+      <in>CvPropertySolver.cpp</in>
+      <in>CvPropertySolver.h</in>
+      <in>CvPropertySource.cpp</in>
+      <in>CvPropertySource.h</in>
+      <in>CvRandom.cpp</in>
+      <in>CvRandom.h</in>
+      <in>CvReachablePlotSet.cpp</in>
+      <in>CvReachablePlotSet.h</in>
+      <in>CvReplayInfo.cpp</in>
+      <in>CvReplayInfo.h</in>
+      <in>CvReplayMessage.cpp</in>
+      <in>CvReplayMessage.h</in>
+      <in>CvSelectionGroup.cpp</in>
+      <in>CvSelectionGroup.h</in>
+      <in>CvSelectionGroupAI.cpp</in>
+      <in>CvSelectionGroupAI.h</in>
+      <in>CvStatistics.cpp</in>
+      <in>CvStatistics.h</in>
+      <in>CvString.h</in>
+      <in>CvStructs.cpp</in>
+      <in>CvStructs.h</in>
+      <in>CvTaggedSaveFormatWrapper.cpp</in>
+      <in>CvTaggedSaveFormatWrapper.h</in>
+      <in>CvTalkingHeadMessage.cpp</in>
+      <in>CvTalkingHeadMessage.h</in>
+      <in>CvTeam.cpp</in>
+      <in>CvTeam.h</in>
+      <in>CvTeamAI.cpp</in>
+      <in>CvTeamAI.h</in>
+      <in>CvUnit.cpp</in>
+      <in>CvUnit.h</in>
+      <in>CvUnitAI.cpp</in>
+      <in>CvUnitAI.h</in>
+      <in>CvUnitFilters.cpp</in>
+      <in>CvUnitFilters.h</in>
+      <in>CvUnitGrouping.cpp</in>
+      <in>CvUnitGrouping.h</in>
+      <in>CvUnitInfo.cpp</in>
+      <in>CvUnitList.cpp</in>
+      <in>CvUnitList.h</in>
+      <in>CvUnitSort.cpp</in>
+      <in>CvUnitSort.h</in>
+      <in>CvViewport.cpp</in>
+      <in>CvViewport.h</in>
+      <in>CvXMLLoadUtility.cpp</in>
+      <in>CvXMLLoadUtility.h</in>
+      <in>CvXMLLoadUtilityGet.cpp</in>
+      <in>CvXMLLoadUtilityInit.cpp</in>
+      <in>CvXMLLoadUtilityModTools.cpp</in>
+      <in>CvXMLLoadUtilityModTools.h</in>
+      <in>CvXMLLoadUtilitySet.cpp</in>
+      <in>CvXMLLoadUtilitySetMod.cpp</in>
+      <in>CvXMLLoadUtilitySetMod.h</in>
+      <in>CyArea.cpp</in>
+      <in>CyArea.h</in>
+      <in>CyAreaInterface.cpp</in>
+      <in>CyArgsList.cpp</in>
+      <in>CyArgsList.h</in>
+      <in>CyArtFileMgr.cpp</in>
+      <in>CyArtFileMgr.h</in>
+      <in>CyArtFileMgrInterface.cpp</in>
+      <in>CyCity.cpp</in>
+      <in>CyCity.h</in>
+      <in>CyCityInterface1.cpp</in>
+      <in>CyCityInterface2.cpp</in>
+      <in>CyDeal.cpp</in>
+      <in>CyDeal.h</in>
+      <in>CyEnumsInterface.cpp</in>
+      <in>CyGame.cpp</in>
+      <in>CyGame.h</in>
+      <in>CyGameCoreUtils.cpp</in>
+      <in>CyGameCoreUtils.h</in>
+      <in>CyGameCoreUtilsInterface.cpp</in>
+      <in>CyGameInterface.cpp</in>
+      <in>CyGameTextMgr.cpp</in>
+      <in>CyGameTextMgr.h</in>
+      <in>CyGameTextMgrInterface.cpp</in>
+      <in>CyGlobalContext.cpp</in>
+      <in>CyGlobalContext.h</in>
+      <in>CyGlobalContextInterface1.cpp</in>
+      <in>CyGlobalContextInterface2.cpp</in>
+      <in>CyGlobalContextInterface3.cpp</in>
+      <in>CyGlobalContextInterface4.cpp</in>
+      <in>CyHallOfFameInfo.cpp</in>
+      <in>CyHallOfFameInfo.h</in>
+      <in>CyHallOfFameInterface.cpp</in>
+      <in>CyInfoInterface1.cpp</in>
+      <in>CyInfoInterface2.cpp</in>
+      <in>CyInfoInterface3.cpp</in>
+      <in>CyInfoInterface4.cpp</in>
+      <in>CyMap.cpp</in>
+      <in>CyMap.h</in>
+      <in>CyMapGenerator.cpp</in>
+      <in>CyMapGenerator.h</in>
+      <in>CyMapGeneratorInterface.cpp</in>
+      <in>CyMapInterface.cpp</in>
+      <in>CyMessageControl.cpp</in>
+      <in>CyMessageControl.h</in>
+      <in>CyMessageControlInterface.cpp</in>
+      <in>CyPlayer.cpp</in>
+      <in>CyPlayer.h</in>
+      <in>CyPlayerInterface1.cpp</in>
+      <in>CyPlayerInterface2.cpp</in>
+      <in>CyPlayerInterface3.cpp</in>
+      <in>CyPlot.cpp</in>
+      <in>CyPlot.h</in>
+      <in>CyPlotInterface1.cpp</in>
+      <in>CyPropertiesInterface.cpp</in>
+      <in>CyRandomInterface.cpp</in>
+      <in>CyReplayInfo.cpp</in>
+      <in>CyReplayInfo.h</in>
+      <in>CySelectionGroup.cpp</in>
+      <in>CySelectionGroup.h</in>
+      <in>CySelectionGroupInterface.cpp</in>
+      <in>CyStructsInterface1.cpp</in>
+      <in>CyTeam.cpp</in>
+      <in>CyTeam.h</in>
+      <in>CyTeamInterface.cpp</in>
+      <in>CyUnit.cpp</in>
+      <in>CyUnit.h</in>
+      <in>CyUnitInterface1.cpp</in>
+      <in>FAStarNode.h</in>
+      <in>FAssert.cpp</in>
+      <in>FAssert.h</in>
+      <in>FDataIOStream.cpp</in>
+      <in>FDataIOStream.h</in>
+      <in>FDataStreamBase.h</in>
+      <in>FDialogTemplate.cpp</in>
+      <in>FDialogTemplate.h</in>
+      <in>FFreeListArray.h</in>
+      <in>FFreeListArrayBase.h</in>
+      <in>FFreeListTrashArray.h</in>
+      <in>FInputDevice.h</in>
+      <in>FProfiler.h</in>
+      <in>FVariableSystem.h</in>
+      <in>IDValueMap.h</in>
+      <in>IntExpr.cpp</in>
+      <in>IntExpr.h</in>
+      <in>LinkedList.h</in>
+      <in>_precompile.cpp</in>
+      <in>resource.h</in>
+      <in>version.h</in>
+      <in>wchar_utils.cpp</in>
+      <in>wchar_utils.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject|Debug|Release|Final_Release|.vs)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} Debug</buildCommand>
+          <cleanCommand>${MAKE} Debug_clean</cleanCommand>
+          <executablePath>Debug/CvGameCoreDLL.dll</executablePath>
+          <ccTool>
+            <standard>4</standard>
+            <incDir>
+              <pElem>../../../../../../../Program Files (x86)/Microsoft Visual C++ Toolkit 2003/include</pElem>
+              <pElem>../../../../../../../Program Files/Microsoft Platform SDK/Include</pElem>
+              <pElem>../../../CvGameCoreDLL/Boost-1.32.0/include</pElem>
+              <pElem>../../../CvGameCoreDLL/Python24/include</pElem>
+              <pElem>include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>C2C_BUILD</Elem>
+              <Elem>FP_PROFILE_ENABLE</Elem>
+              <Elem>LOG_AI</Elem>
+              <Elem>MULTI_FEATURE_MOD</Elem>
+              <Elem>QC_MASTERY_VICTORY</Elem>
+              <Elem>USE_INTERNAL_PROFILER</Elem>
+              <Elem>_DEBUG</Elem>
+              <Elem>_MOD_FRACTRADE</Elem>
+              <Elem>_MOD_GOVWORKERS</Elem>
+              <Elem>_MOD_GWARM</Elem>
+              <Elem>_MOD_SENTRY</Elem>
+              <Elem>_MOD_SHAM_SPOILER</Elem>
+              <Elem>_USRDLL</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="BetterBTSAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="BoolExpr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvAllocator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvArea.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvArtFileMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBugOptions.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildLists.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingFilters.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingGrouping.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingSort.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvCity.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvCityAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvContractBroker.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLButtonPopup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLEntity.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLPython.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLWidgetData.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDate.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDeal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDiploParameters.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDllPythonEvents.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDllTranslator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvEventReporter.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvFractal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGame.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameCoreDLL.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameCoreUtils.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameObject.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameTextMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGlobals.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvHallOfFameInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvInfoWater.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvInfos.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvInitCore.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMap.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMapExternal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMapGenerator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMapInterfaceBase.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMessageControl.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMessageData.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvOutcome.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvOutcomeList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvOutcomeMission.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPathGenerator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPipeline.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlayer.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlayerAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlot.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlotGroup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPopupInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPopupReturn.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvProperties.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertyInteraction.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertyManipulators.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertyPropagator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertySolver.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertySource.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvRandom.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvReachablePlotSet.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvReplayInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvReplayMessage.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvSelectionGroup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvSelectionGroupAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvStatistics.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvStructs.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTaggedSaveFormatWrapper.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTalkingHeadMessage.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTeam.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTeamAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnit.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitFilters.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitGrouping.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitSort.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvViewport.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtility.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilityGet.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilityInit.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilityModTools.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilitySet.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilitySetMod.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArea.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyAreaInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArgsList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArtFileMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArtFileMgrInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyCity.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyCityInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyCityInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyDeal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyEnumsInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGame.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameCoreUtils.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameCoreUtilsInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameTextMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameTextMgrInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContext.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface3.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface4.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyHallOfFameInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyHallOfFameInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface3.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface4.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMap.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMapGenerator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMapGeneratorInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMapInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMessageControl.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMessageControlInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayer.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayerInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayerInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayerInterface3.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlot.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlotInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPropertiesInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyRandomInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyReplayInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CySelectionGroup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CySelectionGroupInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyStructsInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyTeam.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyTeamInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyUnit.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyUnitInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="FAssert.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="FDataIOStream.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="FDialogTemplate.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="IntExpr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="_precompile.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="wchar_utils.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+    </conf>
+    <conf name="Final_Release" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} Final_Release</buildCommand>
+          <cleanCommand>${MAKE} Final_Release_clean</cleanCommand>
+          <executablePath>Final_Release/CvGameCoreDLL.dll</executablePath>
+          <ccTool>
+            <standard>4</standard>
+            <incDir>
+              <pElem>../../../../../../../Program Files (x86)/Microsoft Visual C++ Toolkit 2003/include</pElem>
+              <pElem>../../../../../../../Program Files/Microsoft Platform SDK/Include</pElem>
+              <pElem>../../../CvGameCoreDLL/Boost-1.32.0/include</pElem>
+              <pElem>../../../CvGameCoreDLL/Python24/include</pElem>
+              <pElem>include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>C2C_BUILD</Elem>
+              <Elem>LOG_AI</Elem>
+              <Elem>MULTI_FEATURE_MOD</Elem>
+              <Elem>NDEBUG</Elem>
+              <Elem>QC_MASTERY_VICTORY</Elem>
+              <Elem>_MOD_FRACTRADE</Elem>
+              <Elem>_MOD_GOVWORKERS</Elem>
+              <Elem>_MOD_GWARM</Elem>
+              <Elem>_MOD_SENTRY</Elem>
+              <Elem>_MOD_SHAM_SPOILER</Elem>
+              <Elem>_USRDLL</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="AI_Defines.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BetterBTSAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BetterBTSAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BoolExpr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BoolExpr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CheckSum.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvAllocator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvAllocator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvArea.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvArea.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvArtFileMgr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvArtFileMgr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvBugOptions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBugOptions.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvBuildLists.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBuildLists.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvBuildingFilters.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBuildingFilters.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvBuildingGrouping.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBuildingGrouping.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvBuildingInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBuildingList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBuildingList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvBuildingSort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvBuildingSort.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvCity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvCity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvCityAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvCityAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvContractBroker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvContractBroker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLButtonPopup.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDLLButtonPopup.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLDataStreamIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLEngineIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLEntity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDLLEntity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLEntityIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLEventReporterIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLFAStarIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLFlagEntityIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLIniParserIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLInterfaceIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLPlotBuilderIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLPython.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDLLPythonIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLSymbolIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLUtilityIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLWidgetData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDLLWidgetData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDLLXMLIFaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDate.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDeal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDeal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDefines.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDefinesModTools.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDiploParameters.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDiploParameters.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDllPythonEvents.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDllPythonEvents.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvDllTranslator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvDllTranslator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvEnums.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvEventReporter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvEventReporter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvFractal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvFractal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGame.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGame.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGameAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameCoreDLL.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGameCoreDLL.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameCoreDLLDefNew.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameCoreDLLUndefNew.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameCoreUtils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGameCoreUtils.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGameObject.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGameObject.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGameTextMgr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGameTextMgr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvGlobals.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvGlobals.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvHallOfFameInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvHallOfFameInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvInfoReplacements.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvInfoWater.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvInfoWater.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvInfos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvInfos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvInitCore.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvInitCore.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvMapExternal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvMapExternal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvMapGenerator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvMapGenerator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvMapInterfaceBase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvMapInterfaceBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvMessageControl.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvMessageControl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvMessageData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvMessageData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvOutcome.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvOutcome.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvOutcomeList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvOutcomeList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvOutcomeMission.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvOutcomeMission.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPathGenerator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPathGenerator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPipeline.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPipeline.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPlayer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPlayer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPlayerAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPlayerAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPlot.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPlot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPlotGroup.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPlotGroup.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPopupInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPopupInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPopupReturn.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPopupReturn.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvProperties.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvProperties.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPropertyInteraction.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPropertyInteraction.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPropertyManipulators.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPropertyManipulators.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPropertyPropagator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPropertyPropagator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPropertySolver.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPropertySolver.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvPropertySource.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvPropertySource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvRandom.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvRandom.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvReachablePlotSet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvReachablePlotSet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvReplayInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvReplayInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvReplayMessage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvReplayMessage.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvSelectionGroup.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvSelectionGroup.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvSelectionGroupAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvSelectionGroupAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvStatistics.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvStatistics.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvString.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvStructs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvStructs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvTaggedSaveFormatWrapper.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvTaggedSaveFormatWrapper.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvTalkingHeadMessage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvTalkingHeadMessage.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvTeam.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvTeam.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvTeamAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvTeamAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvUnit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvUnitAI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnitAI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvUnitFilters.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnitFilters.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvUnitGrouping.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnitGrouping.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvUnitInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnitList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnitList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvUnitSort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvUnitSort.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvViewport.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvViewport.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtility.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtility.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilityGet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilityInit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilityModTools.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilityModTools.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilitySet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilitySetMod.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CvXMLLoadUtilitySetMod.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyArea.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyArea.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyAreaInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyArgsList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyArgsList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyArtFileMgr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyArtFileMgr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyArtFileMgrInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyCity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyCity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyCityInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyCityInterface2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyDeal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyDeal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyEnumsInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGame.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGame.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyGameCoreUtils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGameCoreUtils.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyGameCoreUtilsInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGameInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGameTextMgr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGameTextMgr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyGameTextMgrInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGlobalContext.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGlobalContext.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyGlobalContextInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGlobalContextInterface2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGlobalContextInterface3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyGlobalContextInterface4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyHallOfFameInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyHallOfFameInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyHallOfFameInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyInfoInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyInfoInterface2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyInfoInterface3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyInfoInterface4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyMapGenerator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyMapGenerator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyMapGeneratorInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyMapInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyMessageControl.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyMessageControl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyMessageControlInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPlayer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPlayer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyPlayerInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPlayerInterface2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPlayerInterface3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPlot.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPlot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyPlotInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyPropertiesInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyRandomInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyReplayInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyReplayInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CySelectionGroup.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CySelectionGroup.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CySelectionGroupInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyStructsInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyTeam.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyTeam.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyTeamInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyUnit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CyUnit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CyUnitInterface1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FAStarNode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FAssert.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FAssert.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FDataIOStream.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FDataIOStream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FDataStreamBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FDialogTemplate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FDialogTemplate.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FFreeListArray.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FFreeListArrayBase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FFreeListTrashArray.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FInputDevice.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FProfiler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FVariableSystem.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="IDValueMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="IntExpr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="IntExpr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="_precompile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOM.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMAttr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMCDATASection.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMCharacterData.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMComment.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMConfiguration.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMDocument.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMDocumentFragment.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMDocumentRange.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMDocumentTraversal.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMDocumentType.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMElement.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMEntity.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMEntityReference.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMError.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMErrorHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMImplementation.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMImplementationLS.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMImplementationList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMImplementationRegistry.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMImplementationSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSInput.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSOutput.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSParser.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSParserFilter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSResourceResolver.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSSerializer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLSSerializerFilter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMLocator.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMMemoryManager.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMNamedNodeMap.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMNode.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMNodeFilter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMNodeIterator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMNodeList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMNotation.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMPSVITypeInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMProcessingInstruction.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMRange.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMRangeException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMStringList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMText.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMTreeWalker.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMTypeInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMUserDataHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMXPathEvaluator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMXPathException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMXPathExpression.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMXPathNSResolver.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMXPathNamespace.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/DOMXPathResult.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/StDOMNode.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMAttrImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMAttrMapImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMAttrNSImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMCDATASectionImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMCasts.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMCharacterDataImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMChildNode.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMCommentImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMConfigurationImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMDeepNodeListImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMDeepNodeListPool.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMDeepNodeListPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMDocumentFragmentImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMDocumentImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMDocumentTypeImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMElementImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMElementNSImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMEntityImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMEntityReferenceImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMErrorImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMImplementationImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMImplementationListImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMLSInputImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMLSOutputImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMLSSerializerImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMLocatorImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNamedNodeMapImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNodeIDMap.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNodeImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNodeIteratorImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNodeListImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNodeVector.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNormalizer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMNotationImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMParentNode.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMProcessingInstructionImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMRangeImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMStringListImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMStringPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMTextImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMTreeWalkerImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMTypeInfoImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMXPathExpressionImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMXPathNSResolverImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/DOMXPathResultImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/dom/impl/XSDElementNSImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/BinOutputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/LocalFileFormatTarget.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/LocalFileInputSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/MemBufFormatTarget.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/MemBufInputSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/MemoryManager.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/StdInInputSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/StdOutFormatTarget.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/URLInputSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/ValidationContext.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/Wrapper4DOMLSInput.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/Wrapper4InputSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLAttDef.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLAttDefList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLAttr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLBuffer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLBufferMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLContentModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLDTDDescription.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLDocumentHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLElementDecl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLEntityDecl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLEntityHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLErrorCodes.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLErrorReporter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLFormatter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLGrammarDescription.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLGrammarPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLGrammarPoolImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLNotationDecl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLPScanToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLRecognizer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLRefInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLSchemaDescription.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/XMLValidityCodes.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/PSVIAttribute.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/PSVIAttributeList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/PSVIElement.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/PSVIHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/PSVIItem.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSAnnotation.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSAttributeDeclaration.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSAttributeGroupDefinition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSAttributeUse.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSComplexTypeDefinition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSConstants.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSElementDeclaration.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSFacet.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSIDCDefinition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSModelGroup.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSModelGroupDefinition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSMultiValueFacet.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSNamedMap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSNamedMap.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSNamespaceItem.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSNotationDeclaration.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSObject.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSParticle.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSTypeDefinition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSValue.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/framework/psvi/XSWildcard.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/BinFileOutputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/BinMemOutputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/CharTypeTables.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/DGXMLScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/ElemStack.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/EndOfEntityException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/IANAEncodings.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/IGXMLScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/MemoryManagerImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/ReaderMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/SGXMLScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/ValidationContextImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/VecAttrListImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/VecAttributesImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/WFXMLScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XMLInternalErrorHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XMLReader.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XMLScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XMLScannerResolver.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XProtoType.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XSAXMLScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XSObjectFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XSerializable.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XSerializationException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XSerializeEngine.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/internal/XTemplateSerializer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/parsers/AbstractDOMParser.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/parsers/DOMLSParserImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/parsers/SAX2XMLFilterImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/parsers/SAX2XMLReaderImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/parsers/SAXParser.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/parsers/XercesDOMParser.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/AttributeList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/DTDHandler.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/DocumentHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/EntityResolver.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/ErrorHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/HandlerBase.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/InputSource.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/Locator.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/Parser.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/SAXException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax/SAXParseException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/Attributes.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/ContentHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/DeclHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/DefaultHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/LexicalHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/SAX2XMLFilter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/SAX2XMLReader.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/sax2/XMLReaderFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ArrayIndexOutOfBoundsException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Base64.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BaseRefVectorOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BaseRefVectorOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BinFileInputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BinInputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BinMemInputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BitOps.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/BitSet.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/CountedPointer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/CountedPointer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/DefaultPanicHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/EmptyStackException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/EncodingValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/FileManagers/WindowsFileMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/FlagJanitor.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/FlagJanitor.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Hash2KeysSetOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Hash2KeysSetOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Hashers.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/HexBin.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/IOException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/IllegalArgumentException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/InvalidCastException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Janitor.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Janitor.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/KVStringPair.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/KeyRefPair.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/KeyRefPair.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/KeyValuePair.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/KeyValuePair.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/LogicalPath.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/MsgLoaders/Win32/Win32MsgLoader.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/MsgLoaders/Win32/resource.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/MutexManagers/WindowsMutexMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Mutexes.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NameIdPool.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NameIdPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NetAccessors/BinHTTPInputStreamCommon.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NetAccessors/WinSock/BinHTTPURLInputStream.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NetAccessors/WinSock/WinSockNetAccessor.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NoSuchElementException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NullPointerException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/NumberFormatException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/OutOfMemoryException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/PSVIUni.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/PanicHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ParseException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/PlatformUtils.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/QName.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefArrayOf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefArrayOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefArrayVectorOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefArrayVectorOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefHash2KeysTableOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefHash2KeysTableOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefHash3KeysIdPool.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefHash3KeysIdPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefHashTableOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefHashTableOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefStackOf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefStackOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefVectorOf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RefVectorOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/RuntimeException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/SchemaDateTimeException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/SecurityManager.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/StringPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/SynchronizedStringPool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/TransENameMap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/TransENameMap.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/TransService.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Transcoders/Win32/Win32TransService.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/TranscodingException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/UTFDataFormatException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/UnexpectedEOFException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/UnsupportedEncodingException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueArrayOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueArrayOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueHashTableOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueHashTableOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueStackOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueStackOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueVectorOf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/ValueVectorOf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XML256TableTranscoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XML88591Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLASCIITranscoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLAbstractDoubleFloat.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLBigDecimal.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLBigInteger.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLChTranscoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLChar.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLDOMMsg.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLDateTime.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLDouble.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLEBCDICTranscoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLEntityResolver.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLEnumerator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLExceptMsgs.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLFileMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLFloat.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLIBM1047Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLIBM1140Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLInitializer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLInteger.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLMsgLoader.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLMutexMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLNetAccessor.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLNumber.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLResourceIdentifier.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLString.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLStringTokenizer.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLUCS4Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLURL.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLUTF16Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLUTF8Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLUni.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLUniDefs.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLUri.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMLWin1252Transcoder.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XMemory.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XercesDefs.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/XercesVersion.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/Xerces_autoconf_config.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/ASCIIRangeFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/BMPattern.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/BlockRangeFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/CharToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/ClosureToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/ConcatToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/Match.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/Op.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/OpFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/ParenToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/ParserForXMLSchema.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RangeFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RangeToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RangeTokenMap.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RegularExpression.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RegxDefs.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RegxParser.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/RegxUtil.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/StringToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/Token.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/TokenFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/TokenInc.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/UniCharTable.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/UnicodeRangeFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/UnionToken.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/XMLRangeFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/util/regx/XMLUniCharacter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDAttDef.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDAttDefList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDElementDecl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDEntityDecl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDGrammar.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDScanner.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DTDValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/DocTypeHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/DTD/XMLDTDDescriptionImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/AllContentModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMAny.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMBinaryOp.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMLeaf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMNode.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMRepeatingLeaf.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMStateSet.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/CMUnaryOp.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/ContentLeafNameTypeVector.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/ContentSpecNode.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/DFAContentModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/Grammar.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/GrammarResolver.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/MixedContentModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/common/SimpleContentModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/AbstractNumericFacetValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/AbstractNumericValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/AbstractStringValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/AnySimpleTypeDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/AnyURIDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/Base64BinaryDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/BooleanDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DatatypeValidatorFactory.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DateDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DateTimeDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DateTimeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DayDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DecimalDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DoubleDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/DurationDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/ENTITYDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/FloatDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/HexBinaryDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/IDDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/IDREFDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/InvalidDatatypeFacetException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/InvalidDatatypeValueException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/ListDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/MonthDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/MonthDayDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/NCNameDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/NOTATIONDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/NameDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/QNameDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/StringDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/TimeDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/UnionDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/XMLCanRepGroup.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/YearDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/datatype/YearMonthDatatypeValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/ComplexTypeInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/GeneralAttributeCheck.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/NamespaceScope.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/PSVIDefs.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaAttDef.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaAttDefList.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaElementDecl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaGrammar.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaSymbols.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SchemaValidator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/SubstitutionGroupComparator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/TraverseSchema.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XMLSchemaDescriptionImpl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XSDDOMParser.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XSDErrorReporter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XSDLocator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XUtil.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XercesAttGroupInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XercesElementWildcard.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/XercesGroupInfo.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/FieldActivator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/FieldValueMap.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IC_Field.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IC_Key.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IC_KeyRef.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IC_Selector.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IC_Unique.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IdentityConstraint.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/IdentityConstraintHandler.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/ValueStore.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/ValueStoreCache.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/XPathException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/XPathMatcher.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/XPathMatcherStack.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/XPathSymbols.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/validators/schema/identity/XercesXPath.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/xinclude/XIncludeDOMDocumentProcessor.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/xinclude/XIncludeLocation.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="include/xercesc/xinclude/XIncludeUtils.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="resource.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="version.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="wchar_utils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="wchar_utils.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} Release</buildCommand>
+          <cleanCommand>${MAKE} Release_clean</cleanCommand>
+          <executablePath>Release/CvGameCoreDLL.dll</executablePath>
+          <ccTool>
+            <standard>4</standard>
+            <incDir>
+              <pElem>../../../../../../../Program Files (x86)/Microsoft Visual C++ Toolkit 2003/include</pElem>
+              <pElem>../../../../../../../Program Files/Microsoft Platform SDK/Include</pElem>
+              <pElem>../../../CvGameCoreDLL/Boost-1.32.0/include</pElem>
+              <pElem>../../../CvGameCoreDLL/Python24/include</pElem>
+              <pElem>include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>C2C_BUILD</Elem>
+              <Elem>FP_PROFILE_ENABLE</Elem>
+              <Elem>LOG_AI</Elem>
+              <Elem>MULTI_FEATURE_MOD</Elem>
+              <Elem>NDEBUG</Elem>
+              <Elem>QC_MASTERY_VICTORY</Elem>
+              <Elem>USE_INTERNAL_PROFILER</Elem>
+              <Elem>_MOD_FRACTRADE</Elem>
+              <Elem>_MOD_GOVWORKERS</Elem>
+              <Elem>_MOD_GWARM</Elem>
+              <Elem>_MOD_SENTRY</Elem>
+              <Elem>_MOD_SHAM_SPOILER</Elem>
+              <Elem>_USRDLL</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="BetterBTSAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="BoolExpr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvAllocator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvArea.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvArtFileMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBugOptions.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildLists.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingFilters.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingGrouping.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvBuildingSort.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvCity.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvCityAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvContractBroker.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLButtonPopup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLEntity.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLPython.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDLLWidgetData.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDate.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDeal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDiploParameters.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDllPythonEvents.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvDllTranslator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvEventReporter.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvFractal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGame.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameCoreDLL.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameCoreUtils.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameObject.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGameTextMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvGlobals.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvHallOfFameInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvInfoWater.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvInfos.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvInitCore.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMap.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMapExternal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMapGenerator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMapInterfaceBase.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMessageControl.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvMessageData.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvOutcome.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvOutcomeList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvOutcomeMission.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPathGenerator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPipeline.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlayer.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlayerAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlot.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPlotGroup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPopupInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPopupReturn.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvProperties.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertyInteraction.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertyManipulators.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertyPropagator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertySolver.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvPropertySource.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvRandom.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvReachablePlotSet.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvReplayInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvReplayMessage.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvSelectionGroup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvSelectionGroupAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvStatistics.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvStructs.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTaggedSaveFormatWrapper.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTalkingHeadMessage.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTeam.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvTeamAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnit.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitAI.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitFilters.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitGrouping.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvUnitSort.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvViewport.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtility.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilityGet.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilityInit.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilityModTools.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilitySet.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CvXMLLoadUtilitySetMod.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArea.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyAreaInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArgsList.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArtFileMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyArtFileMgrInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyCity.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyCityInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyCityInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyDeal.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyEnumsInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGame.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameCoreUtils.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameCoreUtilsInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameTextMgr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGameTextMgrInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContext.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface3.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyGlobalContextInterface4.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyHallOfFameInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyHallOfFameInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface3.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyInfoInterface4.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMap.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMapGenerator.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMapGeneratorInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMapInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMessageControl.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyMessageControlInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayer.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayerInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayerInterface2.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlayerInterface3.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlot.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPlotInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyPropertiesInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyRandomInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyReplayInfo.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CySelectionGroup.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CySelectionGroupInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyStructsInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyTeam.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyTeamInterface.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyUnit.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="CyUnitInterface1.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="FAssert.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="FDataIOStream.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="FDialogTemplate.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="IntExpr.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="_precompile.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="wchar_utils.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,3 @@
+@echo off
+Launching Caveman2Cosmos via Steam...
+start steam://rungameid/8800 mod=mods/Caveman2Cosmos

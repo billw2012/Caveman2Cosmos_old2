@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- Assets\Modules\Alt_Timelines\MegaFauna\Sabretooth\ExoticAnimals-0.3_CIV4UnitInfos.xml -->
+<!-- ###################################################################################### -->
+<Civ4UnitInfos xmlns="x-schema:../../../../XML/Schema/C2C_CIV4UnitSchema.xml">
+	<UnitInfos>
+		<UnitInfo>
+			<Type>UNIT_SUBDUED_SABRETOOTH</Type>
+			<AndDependencyTypes>
+                    	<DependencyType>UNITCLASS_TRAINEDCAT</DependencyType>
+ 			</AndDependencyTypes>
+			<UnitClassUpgrades>
+				<UnitClassUpgrade>
+					<UnitClassUpgradeType>UNITCLASS_TRAINEDCAT</UnitClassUpgradeType>
+					<bUnitClassUpgrade>1</bUnitClassUpgrade>
+				</UnitClassUpgrade>
+			</UnitClassUpgrades>
+		</UnitInfo>
+		<UnitInfo>
+			<Type>UNIT_SUBDUED_SABRETOOTH</Type>
+			<AndDependencyTypes>
+             	              <DependencyType>BUILDING_ANIMAL_TOTEM_CATS</DependencyType>
+ 			</AndDependencyTypes>
+			<Buildings>
+				<BuildingType>BUILDING_ANIMAL_TOTEM_CATS</BuildingType>
+
+			</Buildings>
+		</UnitInfo>
+	</UnitInfos>
+</Civ4UnitInfos>
